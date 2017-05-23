@@ -1,0 +1,9 @@
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.Form1.resources
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+c:\users\ismay\onedrive\documents\visual studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
